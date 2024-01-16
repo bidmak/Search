@@ -50,4 +50,8 @@ As you review your completed project, consider the following for potential enhan
 
 - **Additional Features:** Consider adding extra features or refining existing ones to enhance the user experience.
 
+## Acknowledgments
+
+This project is part of the CS50 Web Programming with Python and JavaScript course. The distribution code and backend logic were provided by the course instructors.
+
 Happy coding!

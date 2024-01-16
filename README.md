@@ -4,41 +4,50 @@
 
 This project involves creating a front-end for Google Search, Google Image Search, and Google Advanced Search, mimicking the appearance and functionality of Google's search pages.
 
-## Specification
+## Project Structure
 
-### Pages
+The project consists of three main HTML files:
+- `index.html`: For regular Google Search.
+- `images.html`: For Google Image Search.
+- `advanced.html`: For Google Advanced Search.
 
-- Three pages: `index.html` for regular Google Search, `images.html` for Google Image Search, and `advanced.html` for Google Advanced Search.
-- Links in the upper-right of each page to navigate between them.
+Additionally, there may be supporting CSS files and any other assets that contribute to the styling and functionality of the pages.
 
-### Google Search Page
+## Running the Application
 
-- User can type in a query, click "Google Search," and be taken to the Google search results.
-- Search bar should be centered with rounded corners. The search button should also be centered and beneath the search bar.
-- "I'm Feeling Lucky" button on the main Google Search page.
+To view your completed project, follow these steps:
 
-### Google Image Search Page
+1. Open the HTML files in a web browser of your choice.
+   - For example, right-click on `index.html`, then choose "Open with" and select your preferred browser.
 
-- User can type in a query, click a search button, and be taken to Google Image search results.
+2. Explore the functionality on each page:
+   - **Google Search Page (`index.html`):**
+     - Type a query and click "Google Search."
+     - Try the "I'm Feeling Lucky" button.
 
-### Google Advanced Search Page
+   - **Google Image Search Page (`images.html`):**
+     - Enter a query and click the search button.
 
-- User can provide input for four fields: "all these words," "this exact word or phrase," "any of these words," and "none of these words."
-- Fields should be stacked vertically, and all text fields should be left-aligned.
-- "Advanced Search" button should be blue with white text.
-- Clicking "Advanced Search" takes the user to the search results page for their given query.
+   - **Google Advanced Search Page (`advanced.html`):**
+     - Provide input for different search fields.
+     - Click "Advanced Search" to see the search results.
 
-### Navigation Links
+3. Test navigation links:
+   - On the Google Search page, use the links to navigate to Image Search and Advanced Search.
+   - On Image Search and Advanced Search pages, use the link to go back to Google Search.
 
-- On Google Search page, links to Image Search and Advanced Search.
-- On Image Search and Advanced Search pages, link to go back to Google Search.
+## Areas for Improvement
 
-### CSS Styling
+As you review your completed project, consider the following for potential enhancements:
 
-- CSS should resemble Google's own aesthetics.
+- **Responsiveness:** Ensure the pages look good and are functional on various screen sizes.
 
-## How to Run
+- **Code Structure:** Organize your HTML, CSS, and any JavaScript code for readability and maintainability.
 
-1. Download the distribution code or create the `index.html` file.
-2. Open the HTML files in a web browser to view the front-end pages.
-3. Feel free to explore and interact with the different search functionalities!
+- **Accessibility:** Check if the application is accessible to users with disabilities, and make improvements if needed.
+
+- **Browser Compatibility:** Test your application on different browsers to ensure compatibility.
+
+- **Additional Features:** Consider adding extra features or refining existing ones to enhance the user experience.
+
+Happy coding!

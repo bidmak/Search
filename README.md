@@ -1,41 +1,39 @@
 # Google Search Front-End
 
-## Getting Started
+## Overview
 
-Download the distribution code and unzip it. Alternatively, you can manually create the `index.html` file following the instructions in the "Background" section.
+This project involves creating a front-end for Google Search, Google Image Search, and Google Advanced Search, mimicking the appearance and functionality of Google's search pages.
 
 ## Specification
 
-Your website must meet the following requirements:
-
-### Pages:
+### Pages
 
 - Three pages: `index.html` for regular Google Search, `images.html` for Google Image Search, and `advanced.html` for Google Advanced Search.
 - Links in the upper-right of each page to navigate between them.
 
-### Google Search Page:
+### Google Search Page
 
 - User can type in a query, click "Google Search," and be taken to the Google search results.
 - Search bar should be centered with rounded corners. The search button should also be centered and beneath the search bar.
 - "I'm Feeling Lucky" button on the main Google Search page.
 
-### Google Image Search Page:
+### Google Image Search Page
 
 - User can type in a query, click a search button, and be taken to Google Image search results.
 
-### Google Advanced Search Page:
+### Google Advanced Search Page
 
 - User can provide input for four fields: "all these words," "this exact word or phrase," "any of these words," and "none of these words."
 - Fields should be stacked vertically, and all text fields should be left-aligned.
 - "Advanced Search" button should be blue with white text.
 - Clicking "Advanced Search" takes the user to the search results page for their given query.
 
-### Navigation Links:
+### Navigation Links
 
 - On Google Search page, links to Image Search and Advanced Search.
 - On Image Search and Advanced Search pages, link to go back to Google Search.
 
-### CSS Styling:
+### CSS Styling
 
 - CSS should resemble Google's own aesthetics.
 
